@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 
+// https://codeforces.com/contest/2040
 
 void solve()
 {
@@ -14,8 +15,8 @@ void solve()
 		{
 	    	if(std::abs(a[i] - a[j]) % k == 0)
 	   		{
-			st[i] = false;
-			st[j] = false;
+				st[i] = false;
+				st[j] = false;
 	  		}
 		}
 
