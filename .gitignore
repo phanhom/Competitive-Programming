@@ -1,2 +1,7 @@
 *.bin
+
 .cph/
+
+.vscode/
+
+.DS_Store
