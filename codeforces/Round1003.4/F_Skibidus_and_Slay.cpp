@@ -1,9 +1,11 @@
 #include <bits/stdc++.h>
- 
-using ll = long long;
- 
-void solve() {
+using namespace std;
 
+using ll = long long;
+using pii = std::pair<int, int>;
+
+void solve() {
+    
 }
  
 int main() {
